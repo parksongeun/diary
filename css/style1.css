@@ -3,6 +3,9 @@
 html{
     background: #FFFDF4 0% 0% no-repeat padding-box;
     opacity: 1;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
     
     /* height:100%; */
     
