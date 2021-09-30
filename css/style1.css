@@ -1,0 +1,340 @@
+
+
+html{
+    background: #FFFDF4 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+    /* height:100%; */
+    
+}
+
+
+body{position: fixed;
+    }
+
+.wrap{
+    position: relative;
+    width: 1672px;
+}
+
+img{width:100%;}
+
+
+.title{
+z-index: 100;
+top: 0.8938198089599609px;
+left: -8px;
+width: 242px;
+height: 269px;
+position: absolute
+}
+
+
+.hasal{
+top: 265px;
+left: 63px;
+width: 25px;
+
+position: absolute
+
+}
+
+#click{
+
+top: 280px;
+left: 99px;
+width: 55px;
+height: 101px;
+text-align: center;
+font: normal normal normal 36px/29px Shadows Into Light;
+line-height: 1.1;
+letter-spacing: -0.36px;
+color: #871E19;
+opacity: 1;
+position: absolute
+
+}
+
+.diary{
+top: -113.3089828491211px;
+left: 121px;
+width: 1621px;
+height: 1287px;
+position: absolute
+
+
+}
+
+/* .sticker{
+   position: relative;
+}
+
+.sticker :hover{
+    z-index: 101;
+} */
+
+
+#grant{
+position: absolute;
+top: 557px;
+left: 986px;
+width: 334px;
+height: 214px;
+
+
+}
+
+#cd{
+position: absolute;
+top: 429px;
+left: 1058px;
+width: 243px;
+height: 239px;
+}
+
+#heart{
+    position: absolute;
+    top: 203px;
+    left: 654px;
+    width: 620px;
+   
+    
+
+}
+#bus{
+    position: absolute;
+    top: -44.98661422729492px;
+left: 915px;
+width: 757px;
+height: 500px
+}
+
+#ebul{
+    position: absolute;
+    top: -27.02429962158203px;
+    left: 704px;
+    width: 517px;
+    height: 407px;}
+
+#kiss{
+    position: absolute;
+   top: 120px;
+left: 327px;
+width: 393px;
+height: 392px;
+}
+
+
+#text1{
+position: absolute;
+top:180px;
+left: 96px;
+width: 225px;
+height: 158px;
+transform: matrix(0.98, -0.17, 0.17, 0.98, 0, 0);
+text-align: left;
+font: normal normal normal 24px/29px Shadows Into Light;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+
+#solo{
+position: absolute;
+top: 136px;
+left: 281px;
+width: 122px;
+height: 122px;
+
+
+}
+
+#check{
+position: absolute;
+top: 439px;
+left: 358px;
+width: 135px;
+height: 91px;
+}
+
+#diabri{
+position: absolute;
+top: 655px;
+left: 345px;
+width: 295px;
+height: 166px;
+}
+
+#bunny{
+position: absolute;
+top: 581px;
+left: 330px;
+width: 122px;
+height: 122px;
+
+}
+
+#powder{
+    position: absolute;
+    top: 757px;
+left: 1068px;
+width: 466px;
+height: 355px;
+}
+
+#friends{
+    position: absolute;
+    top: 724px;
+left: 600px;
+width: 529px;
+height: 277px;
+}
+
+#pantie{
+    position: absolute;
+    top: 789px;
+left: 375px;
+width: 266px;
+height: 266px;
+}
+
+
+#sing{
+    position: absolute;
+    top: 620px;
+left: 1270px;
+width: 447px;
+height: 398px;
+}
+
+
+#sun{
+    position: absolute;
+    top: 598px;
+left: 1445px;
+width: 248px;
+height: 197px;
+}
+
+
+#firstd{
+    position: absolute;
+    top: 237px;
+left: 1559px;
+width: 187px;
+height: 213px;
+}
+
+#firstb{
+    position: absolute;
+    top: 265px;
+left: 1432px;
+width: 139px;
+height: 166px;
+}
+
+#textsti{
+    position: absolute;
+    top: 265px;
+left: 1379px;
+width: 458px;
+height: 438px;
+}
+
+#m{
+    position: absolute;
+    top: 540px;
+left: 488px;
+width: 80px;
+height: 80px;
+}
+
+#a{
+    position: absolute;
+    top: 520px;
+left: 564px;
+width: 80px;
+height: 80px;
+}
+#r{
+    position: absolute;
+    top: 530px;
+left: 641px;
+width: 80px;
+height: 80px;
+}
+
+#k{
+    position: absolute;
+    top: 548px;
+left: 711px;
+width: 80px;
+height: 80px;
+}
+#d{
+    position: absolute;
+    top: 606px;
+left: 524px;
+width: 80px;
+height: 80px;
+}
+#a2{
+    position: absolute;
+    top: 598px;
+left: 600px;
+width: 80px;
+height: 80px;
+
+}
+
+#r2{
+    position: absolute;
+    top: 609px;
+left: 675px;
+width: 80px;
+height: 80px;
+}
+
+#c{
+    position: absolute;
+    top: 620px;
+left: 752px;
+width: 80px;
+height: 80px;
+}
+
+#y{
+    position: absolute;
+    top: 648px;
+left: 827px;
+width: 80px;
+height: 80px;
+}
+
+
+#text2{
+    position: absolute;
+    top: 383px;
+left: 1274px;
+width: 222px;
+height: 307px;
+text-align: left;
+font: normal normal normal 48px/58px Shadows Into Light;
+letter-spacing: 0px;
+color: #000000;
+}
+
+
+#smoke{
+    position: absolute;
+    top: 648px;
+    left: 17px;
+    width: 185px;
+    height: 118px;
+}
+
+#work{
+    top: 724px;
+    left: -133.51698303222656px;
+    width: 383px;
+    height: 308px;
+}
